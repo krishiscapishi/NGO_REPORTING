@@ -13,6 +13,10 @@ npm run dev
 
 Open the local URL printed by Vite. To make a static production build, run `npm run build`; to serve that build locally, run `npm run preview`.
 
+## Publish with GitHub Pages
+
+The repository includes a Pages workflow. In GitHub, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. Push the Pages setup commit to `main`; the workflow builds and publishes the site. Watch the run under **Actions**. When it succeeds, GitHub shows the shareable URL under **Settings → Pages** (expected: `https://krishiscapishi.github.io/NGO_REPORTING/`). The site is public, so share only fictional or anonymized data.
+
 ## Use the prototype
 
 - Start on the report overview, which loads the fictional Sahaya Learning Collective sample.
