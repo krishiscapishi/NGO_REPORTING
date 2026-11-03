@@ -1,0 +1,7 @@
+expense_id,date,category,amount,currency,vendor,description,evidence_status,evidence_ref
+EX-101,2026-04-08,Learning materials,68000,INR,Northstar Books,Term 1 workbooks and reading kits,attached,INV-104
+EX-102,2026-04-18,Educator stipends,72000,INR,Programme team,April educator stipends,attached,PAY-APR
+EX-103,2026-05-06,Community sessions,29000,INR,Neighbourhood Hall,May learning circle venue,incomplete,Unsigned venue receipt
+EX-104,2026-05-15,Learning materials,47000,INR,Northstar Books,Supplementary readers,missing,
+EX-105,2026-06-01,Educator stipends,63000,INR,Programme team,May educator stipends,attached,PAY-MAY
+EX-106,2026-06-16,Community sessions,28000,INR,Neighbourhood Hall,June learning circle venue,attached,INV-233

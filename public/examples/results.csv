@@ -1,0 +1,4 @@
+result_id,indicator,target,actual,unit,evidence_status,evidence_ref
+R-01,Children attending weekly learning circles,200,180,children,attached,Quarterly attendance register
+R-02,Learning circles held,24,18,sessions,incomplete,Facilitator log missing week 11
+R-03,Caregiver workshops,8,6,workshops,missing,
